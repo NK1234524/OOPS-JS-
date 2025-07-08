@@ -1,5 +1,5 @@
 //function that creates the objects
-function PersonMaker(name,age){
+function Person(name,age){
     const person = {
         name : name,
         age : age,
